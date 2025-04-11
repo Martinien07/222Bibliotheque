@@ -1,0 +1,16 @@
+# 📌 Contributions au projet Gestion de Bibliothèque
+
+👤 **Alice** - Gestion des Utilisateurs
+- Création des classes `Utilisateur` et `UtilisateurService`
+- Gestion de l'authentification et de l'inscription
+- Ajout des tests unitaires pour les utilisateurs
+
+👤 **Bob** - Gestion des Livres
+- Création des classes `Livre` et `LivreService`
+- Fonctionnalité d'ajout, modification et suppression de livres
+- Gestion du stock et des catégories
+
+👤 **Charlie** - Gestion des Emprunts
+- Mise en place des emprunts et des retours
+- Gestion des délais et des pénalités
+- Ajout d'un historique des emprunts
