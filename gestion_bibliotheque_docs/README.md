@@ -1,18 +1,18 @@
-# 📚 Gestion de Bibliothèque
+# Gestion de Bibliothèque
 
-## 📌 Description
+## Description
 Ce projet est une application de gestion de bibliothèque permettant d'ajouter, emprunter et gérer des livres. Il est développé en **Java** et utilise **GitHub** pour la collaboration.
 
-## 🚀 Fonctionnalités
-- 📖 **Gestion des Livres** : Ajout, suppression et modification de livres.
-- 👤 **Gestion des Utilisateurs** : Création de comptes et gestion des utilisateurs.
-- 🔄 **Emprunt et Retour** : Suivi des emprunts et retours de livres.
-- 🔒 **Authentification** : Connexion et sécurité des utilisateurs.
+## Fonctionnalités
+-  **Gestion des Livres** : Ajout, suppression et modification de livres.
+- **Gestion des Utilisateurs** : Création de comptes et gestion des utilisateurs.
+- **Emprunt et Retour** : Suivi des emprunts et retours de livres.
+- **Authentification** : Connexion et sécurité des utilisateurs.
 
-## 🛠️ Installation
+## Installation
 1. **Cloner le projet** :
    ```bash
-   git clone https://github.com/ton-utilisateur/gestion-bibliotheque.git
+   git clone https://github.com/Martinien07/222Bibliotheque.git
    cd gestion-bibliotheque
    ```
 2. **Compiler et exécuter le projet** :
@@ -21,7 +21,7 @@ Ce projet est une application de gestion de bibliothèque permettant d'ajouter, 
    java -cp bin main.Main
    ```
 
-## 🏗️ Structure du Projet
+## Structure du Projet
 ```
 gestion-bibliotheque/
 ├── src/
@@ -34,10 +34,10 @@ gestion-bibliotheque/
 ├── contributions.txt     # Liste des contributions de chaque membre
 ```
 
-## 👥 Auteurs
+## Auteurs
 - **Martinien** - Gestion des utilisateurs
-- **Tareq** - Gestion des livres
-- **Yannis** - Gestion des emprunts
+- **Yaniss** - Gestion des livres
+- **Charlie** - Gestion des emprunts
 
-## 📝 Licence
+## Licence
 Ce projet est sous licence MIT.
