@@ -36,8 +36,8 @@ gestion-bibliotheque/
 
 ## 👥 Auteurs
 - **Martinien** - Gestion des utilisateurs
-- **Yaniss** - Gestion des livres
-- **Charlie** - Gestion des emprunts
+- **Tareq** - Gestion des livres
+- **Yannis** - Gestion des emprunts
 
 ## 📝 Licence
 Ce projet est sous licence MIT.
